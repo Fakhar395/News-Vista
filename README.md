@@ -1,1 +1,1 @@
-# News-Vista
+News Vista React App
